@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DevOps on OCI 읽어주는 곰돌스</title>
-    <link>https://example.com/tags/devops/</link>
+    <link>http://gomdolsteam.github.io/tags/devops/</link>
     <description>Recent content in DevOps on OCI 읽어주는 곰돌스</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 03 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/devops/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://gomdolsteam.github.io/tags/devops/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OCI 주간 새소식(5월 4주차, 50회)</title>
-      <link>https://example.com/post/gomdols050/</link>
+      <link>http://gomdolsteam.github.io/post/gomdols050/</link>
       <pubDate>Fri, 03 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/gomdols050/</guid>
+      <guid>http://gomdolsteam.github.io/post/gomdols050/</guid>
       <description>[OCI 읽어주는 곰돌스] 50회차는 OCI 신규 업데이트 소식 12개와 OCI MySQL 서비스(MDS)를 집중적으로 소개합니다. 음성 중심으로 각 주제를 쉽게 전달하기 위한 티키타</description>
     </item>
     
     <item>
       <title>OCI 주간 새소식(4월 1주차, 44회)</title>
-      <link>https://example.com/post/gomdols044/</link>
+      <link>http://gomdolsteam.github.io/post/gomdols044/</link>
       <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/gomdols044/</guid>
+      <guid>http://gomdolsteam.github.io/post/gomdols044/</guid>
       <description>[OCI 읽어주는 곰돌스] 44회차는 OCI 신규 업데이트 소식 11개와 Java 18 버전 업데이트 소식을 전합니다. 새로 신설한 OCI 티키 타카에서는 OCI 오라클 틀라우드의 특징에 대하</description>
     </item>
     
     <item>
       <title>OCI 주간 새소식(7월 1주차, 11회)</title>
-      <link>https://example.com/post/gomdols011/</link>
+      <link>http://gomdolsteam.github.io/post/gomdols011/</link>
       <pubDate>Mon, 05 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/gomdols011/</guid>
+      <guid>http://gomdolsteam.github.io/post/gomdols011/</guid>
       <description>[OCI 읽어주는 곰돌스] 11회차 영상은 OCI 신규 업데이트 10개 주제를 다룹니다. OCI 읽어주는 곰돌스] 주간 OCI 새소식은 매주 발표되는 OCI 신규 릴리즈 노트를 소개하기 위</description>
     </item>
     

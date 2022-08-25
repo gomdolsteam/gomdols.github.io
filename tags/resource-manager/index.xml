@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Resource Manager on OCI 읽어주는 곰돌스</title>
-    <link>https://example.com/tags/resource-manager/</link>
+    <link>http://gomdolsteam.github.io/tags/resource-manager/</link>
     <description>Recent content in Resource Manager on OCI 읽어주는 곰돌스</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/resource-manager/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://gomdolsteam.github.io/tags/resource-manager/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OCI 주간 새소식(9월 2주차, 20회)</title>
-      <link>https://example.com/post/gomdols020/</link>
+      <link>http://gomdolsteam.github.io/post/gomdols020/</link>
       <pubDate>Mon, 13 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/gomdols020/</guid>
+      <guid>http://gomdolsteam.github.io/post/gomdols020/</guid>
       <description>[OCI 읽어주는 곰돌스] 20회차는 OCI 신규 업데이트 6개 주제와 Oracle LiveLab 업데이트 5개 문서 소식을 다룹니다. OCI 신규 업데이트는 OKE, MDS, ADB의 기능 업데이트입니다. 아빠</description>
     </item>
     
     <item>
       <title>OCI 주간 새소식(6월 4주차, 10회)</title>
-      <link>https://example.com/post/gomdols010/</link>
+      <link>http://gomdolsteam.github.io/post/gomdols010/</link>
       <pubDate>Mon, 28 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/gomdols010/</guid>
+      <guid>http://gomdolsteam.github.io/post/gomdols010/</guid>
       <description>[OCI 읽어주는 곰돌스] 10회차 영상은 OCI 신규 업데이트 10개 주제를 다룹니다. [OCI 읽어주는 곰돌스] 주간 OCI 새소식은 매주 발표되는 OCI 신규 릴리즈 노트를 소개하기 위</description>
     </item>
     
     <item>
       <title>OCI 주간 새소식(5월 3주차, 5회)</title>
-      <link>https://example.com/post/gomdols005/</link>
+      <link>http://gomdolsteam.github.io/post/gomdols005/</link>
       <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/gomdols005/</guid>
+      <guid>http://gomdolsteam.github.io/post/gomdols005/</guid>
       <description>[OCI 읽어주는 곰돌스]는 매주 발표되는 OCI 신규 릴리즈 노트를 소개하기 위해서 준비한 &amp;ldquo;주간 OCI 토크쇼&amp;quot;입니다. 유쾌 상쾌한 토크쇼를 지향하</description>
     </item>
     

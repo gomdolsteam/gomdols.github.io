@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bare Metal on OCI 읽어주는 곰돌스</title>
-    <link>https://example.com/tags/bare-metal/</link>
+    <link>http://gomdolsteam.github.io/tags/bare-metal/</link>
     <description>Recent content in Bare Metal on OCI 읽어주는 곰돌스</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 14 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/bare-metal/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 14 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://gomdolsteam.github.io/tags/bare-metal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OCI 주간 새소식(6월 2주차, 8회)</title>
-      <link>https://example.com/post/gomdols008/</link>
+      <link>http://gomdolsteam.github.io/post/gomdols008/</link>
       <pubDate>Mon, 14 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/gomdols008/</guid>
+      <guid>http://gomdolsteam.github.io/post/gomdols008/</guid>
       <description>[OCI 읽어주는 곰돌스] 8회차 영상은 OCI 신규 업데이트 8개 주제를 다룹니다. [OCI 읽어주는 곰돌스] 주간 OCI 새소식은 매주 발표되는 OCI 신규 릴리즈 노트를 소개하기 위해서</description>
     </item>
     

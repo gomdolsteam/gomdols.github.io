@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>OS Management on OCI 읽어주는 곰돌스</title>
-    <link>https://example.com/tags/os-management/</link>
+    <link>http://gomdolsteam.github.io/tags/os-management/</link>
     <description>Recent content in OS Management on OCI 읽어주는 곰돌스</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 11 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/os-management/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://gomdolsteam.github.io/tags/os-management/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OCI 주간 새소식(5월 1주차, 48회)</title>
-      <link>https://example.com/post/gomdols048/</link>
+      <link>http://gomdolsteam.github.io/post/gomdols048/</link>
       <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/gomdols048/</guid>
+      <guid>http://gomdolsteam.github.io/post/gomdols048/</guid>
       <description>[OCI 읽어주는 곰돌스] 48회차는 OCI 신규 업데이트 소식 9개와 OCI 스토리지 서비스를 집중적으로 소개합니다. 음성 중심으로 각 주제를 쉽게 전달하기 위하여 토론형식으</description>
     </item>
     
     <item>
       <title>OCI 주간 새소식(9월 1주차, 19회)</title>
-      <link>https://example.com/post/gomdols019/</link>
+      <link>http://gomdolsteam.github.io/post/gomdols019/</link>
       <pubDate>Sun, 05 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/gomdols019/</guid>
+      <guid>http://gomdolsteam.github.io/post/gomdols019/</guid>
       <description>[OCI 읽어주는 곰돌스] 19회차는 OCI 신규 업데이트 5개 주제와 Oracle LiveLab 업데이트 소식을 다룹니다. 이번주에 공개된 Oracle LiveLabs 문서를 아빠곰님이 소개합니다. 영상 개요 OCI 업데</description>
     </item>
     
     <item>
       <title>OCI 주간 새소식(8월 4주차, 18회)</title>
-      <link>https://example.com/post/gomdols018/</link>
+      <link>http://gomdolsteam.github.io/post/gomdols018/</link>
       <pubDate>Fri, 03 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/gomdols018/</guid>
+      <guid>http://gomdolsteam.github.io/post/gomdols018/</guid>
       <description>[OCI 읽어주는 곰돌스] 18회차 영상은 OCI 신규 업데이트 4개 주제와 Oracle LiveLab 업데이트, Oracle Luna 서비스 소식을 다룹니다. [OCI 읽어주는 곰돌스] 주간 OCI 새소식은 매주 발표되는</description>
     </item>
     
     <item>
       <title>OCI 주간 새소식(9월 1주차, 14회)</title>
-      <link>https://example.com/post/gomdols014/</link>
+      <link>http://gomdolsteam.github.io/post/gomdols014/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/gomdols014/</guid>
+      <guid>http://gomdolsteam.github.io/post/gomdols014/</guid>
       <description>[OCI 읽어주는 곰돌스] 14회차 영상은 OCI 신규 업데이트 6개 주제와 GraalVM과 Oracle LiveLab 업데이트 소식을 다룹니다. [OCI 읽어주는 곰돌스] 주간 OCI 새소식은 매주 발표</description>
     </item>
     
     <item>
       <title>OCI 주간 새소식(6월 4주차, 10회)</title>
-      <link>https://example.com/post/gomdols010/</link>
+      <link>http://gomdolsteam.github.io/post/gomdols010/</link>
       <pubDate>Mon, 28 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/gomdols010/</guid>
+      <guid>http://gomdolsteam.github.io/post/gomdols010/</guid>
       <description>[OCI 읽어주는 곰돌스] 10회차 영상은 OCI 신규 업데이트 10개 주제를 다룹니다. [OCI 읽어주는 곰돌스] 주간 OCI 새소식은 매주 발표되는 OCI 신규 릴리즈 노트를 소개하기 위</description>
     </item>
     

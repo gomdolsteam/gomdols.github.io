@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>WAF on OCI 읽어주는 곰돌스</title>
-    <link>https://example.com/tags/waf/</link>
+    <link>http://gomdolsteam.github.io/tags/waf/</link>
     <description>Recent content in WAF on OCI 읽어주는 곰돌스</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 03 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/waf/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://gomdolsteam.github.io/tags/waf/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OCI 주간 새소식(4월 4주차, 47회)</title>
-      <link>https://example.com/post/gomdols047/</link>
+      <link>http://gomdolsteam.github.io/post/gomdols047/</link>
       <pubDate>Tue, 03 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/gomdols047/</guid>
+      <guid>http://gomdolsteam.github.io/post/gomdols047/</guid>
       <description>[OCI 읽어주는 곰돌스] 47회차는 OCI 신규 업데이트 소식 12개와 Oracle NoSQL Database Cloud Service를 집중적으로 소개합니다. 음성 중심으로 각 주제를 쉽게 전달하기 위하여 토</description>
     </item>
     

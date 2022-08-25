@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Java on OCI 읽어주는 곰돌스</title>
-    <link>https://example.com/tags/java/</link>
+    <link>http://gomdolsteam.github.io/tags/java/</link>
     <description>Recent content in Java on OCI 읽어주는 곰돌스</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 05 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/java/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://gomdolsteam.github.io/tags/java/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OCI 주간 새소식(4월 3주차, 2회)</title>
-      <link>https://example.com/post/gomdols002/</link>
+      <link>http://gomdolsteam.github.io/post/gomdols002/</link>
       <pubDate>Wed, 05 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/gomdols002/</guid>
+      <guid>http://gomdolsteam.github.io/post/gomdols002/</guid>
       <description>[OCI 읽어주는 곰돌스] 2회차 영상은 2021년 4월 23일 부터 4월 30일까지 7일간 공개된 오라클 클라우드 업데이트 소식을 정리합니다. 베어메탈 조경진님, 아</description>
     </item>
     

@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Java Management on OCI 읽어주는 곰돌스</title>
-    <link>https://example.com/tags/java-management/</link>
+    <link>http://gomdolsteam.github.io/tags/java-management/</link>
     <description>Recent content in Java Management on OCI 읽어주는 곰돌스</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 06 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/java-management/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://gomdolsteam.github.io/tags/java-management/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OCI 주간 새소식(4월 1주차, 44회)</title>
-      <link>https://example.com/post/gomdols044/</link>
+      <link>http://gomdolsteam.github.io/post/gomdols044/</link>
       <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/gomdols044/</guid>
+      <guid>http://gomdolsteam.github.io/post/gomdols044/</guid>
       <description>[OCI 읽어주는 곰돌스] 44회차는 OCI 신규 업데이트 소식 11개와 Java 18 버전 업데이트 소식을 전합니다. 새로 신설한 OCI 티키 타카에서는 OCI 오라클 틀라우드의 특징에 대하</description>
     </item>
     
     <item>
       <title>OCI 주간 새소식(2월 3주차, 38회)</title>
-      <link>https://example.com/post/gomdols038/</link>
+      <link>http://gomdolsteam.github.io/post/gomdols038/</link>
       <pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/gomdols038/</guid>
+      <guid>http://gomdolsteam.github.io/post/gomdols038/</guid>
       <description>[OCI 읽어주는 곰돌스] 38회차는 OCI 신규 업데이트 소식 11개 업데이트 소식을 요약합니다. 영상 개요 OCI 업데이트 기간: 2022.2.4 ~ 2022.2.10 녹화: 2022.02.13 공개: 2022.02.14 Youtube 주소: https://youtu.be/V1AulhgxCm4 재생시</description>
     </item>
     
     <item>
       <title>OCI 주간 새소식(4월 3주차, 1회)</title>
-      <link>https://example.com/post/gomdols001/</link>
+      <link>http://gomdolsteam.github.io/post/gomdols001/</link>
       <pubDate>Wed, 28 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/gomdols001/</guid>
+      <guid>http://gomdolsteam.github.io/post/gomdols001/</guid>
       <description>[OCI 읽어주는 곰돌스]는 매주 발표되는 OCI 신규 업데이트 소식을 소개하기 위해서 준비한 &amp;ldquo;주간 OCI 영상&amp;quot;입니다. 유쾌 상쾌한 토크쇼를 지향하</description>
     </item>
     

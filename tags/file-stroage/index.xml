@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>File Stroage on OCI 읽어주는 곰돌스</title>
-    <link>https://example.com/tags/file-stroage/</link>
+    <link>http://gomdolsteam.github.io/tags/file-stroage/</link>
     <description>Recent content in File Stroage on OCI 읽어주는 곰돌스</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 10 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/file-stroage/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://gomdolsteam.github.io/tags/file-stroage/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OCI 주간 새소식(1월 1주차, 34회)</title>
-      <link>https://example.com/post/gomdols034/</link>
+      <link>http://gomdolsteam.github.io/post/gomdols034/</link>
       <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/gomdols034/</guid>
+      <guid>http://gomdolsteam.github.io/post/gomdols034/</guid>
       <description>[OCI 읽어주는 곰돌스] 34회차는 OCI 적용 사례인 온더라이브 소식과 OCI 신규 업데이트 3개 주제(&amp;ldquo;File Stroage&amp;rdquo;, &amp;ldquo;OKE&amp;rdquo;, &amp;ldquo;Compute&amp;rd</description>
     </item>
     

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>EmNetwork Visualizerail on OCI 읽어주는 곰돌스</title>
-    <link>https://example.com/tags/emnetwork-visualizerail/</link>
+    <link>http://gomdolsteam.github.io/tags/emnetwork-visualizerail/</link>
     <description>Recent content in EmNetwork Visualizerail on OCI 읽어주는 곰돌스</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/emnetwork-visualizerail/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://gomdolsteam.github.io/tags/emnetwork-visualizerail/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OCI 주간 새소식(8월 3주차, 17회)</title>
-      <link>https://example.com/post/gomdols017/</link>
+      <link>http://gomdolsteam.github.io/post/gomdols017/</link>
       <pubDate>Mon, 23 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/gomdols017/</guid>
+      <guid>http://gomdolsteam.github.io/post/gomdols017/</guid>
       <description>[OCI 읽어주는 곰돌스] 17회차 영상은 OCI 신규 업데이트 4개 주제와 Oracle LiveLab 업데이트, Oracle Luna 서비스 소식을 다룹니다. [OCI 읽어주는 곰돌스] 주간 OCI 새소식은 매주 발표되는</description>
     </item>
     

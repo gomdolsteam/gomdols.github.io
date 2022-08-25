@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cloud Gurard on OCI 읽어주는 곰돌스</title>
-    <link>https://example.com/tags/cloud-gurard/</link>
+    <link>http://gomdolsteam.github.io/tags/cloud-gurard/</link>
     <description>Recent content in Cloud Gurard on OCI 읽어주는 곰돌스</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 29 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/cloud-gurard/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://gomdolsteam.github.io/tags/cloud-gurard/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OCI 주간 새소식(3월 4주차, 43회)</title>
-      <link>https://example.com/post/gomdols043/</link>
+      <link>http://gomdolsteam.github.io/post/gomdols043/</link>
       <pubDate>Tue, 29 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/gomdols043/</guid>
+      <guid>http://gomdolsteam.github.io/post/gomdols043/</guid>
       <description>[OCI 읽어주는 곰돌스] 43회차는 OCI 신규 업데이트 소식 8개 업데이트 소식합니다. 새로 신설한 OCI 티키 타카에서는 OCI 오라클 틀라우드 특징에 대해 토론해 보겠습니다.</description>
     </item>
     

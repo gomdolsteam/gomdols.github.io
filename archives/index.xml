@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Archives on OCI 읽어주는 곰돌스</title>
-    <link>https://example.com/archives/</link>
+    <link>http://gomdolsteam.github.io/archives/</link>
     <description>Recent content in Archives on OCI 읽어주는 곰돌스</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 03 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/archives/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://gomdolsteam.github.io/archives/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>곰돌스 시즌 2021</title>
-      <link>https://example.com/archives/%EA%B3%B0%EB%8F%8C%EC%8A%A4-%EC%8B%9C%EC%A6%8C-2021/</link>
+      <link>http://gomdolsteam.github.io/archives/%EA%B3%B0%EB%8F%8C%EC%8A%A4-%EC%8B%9C%EC%A6%8C-2021/</link>
       <pubDate>Fri, 03 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/archives/%EA%B3%B0%EB%8F%8C%EC%8A%A4-%EC%8B%9C%EC%A6%8C-2021/</guid>
+      <guid>http://gomdolsteam.github.io/archives/%EA%B3%B0%EB%8F%8C%EC%8A%A4-%EC%8B%9C%EC%A6%8C-2021/</guid>
       <description></description>
     </item>
     

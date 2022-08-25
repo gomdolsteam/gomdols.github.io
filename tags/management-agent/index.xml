@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Management Agent on OCI 읽어주는 곰돌스</title>
-    <link>https://example.com/tags/management-agent/</link>
+    <link>http://gomdolsteam.github.io/tags/management-agent/</link>
     <description>Recent content in Management Agent on OCI 읽어주는 곰돌스</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/management-agent/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://gomdolsteam.github.io/tags/management-agent/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OCI 주간 새소식(12월 4주차, 33회)</title>
-      <link>https://example.com/post/gomdols033/</link>
+      <link>http://gomdolsteam.github.io/post/gomdols033/</link>
       <pubDate>Tue, 28 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/gomdols033/</guid>
+      <guid>http://gomdolsteam.github.io/post/gomdols033/</guid>
       <description>[OCI 읽어주는 곰돌스] 33회차는 OCI 신규 업데이트 6개 주제를 다룹니다. Data Science 업데이트 소식과 스웨덴 신규 리전 오픈 소식을 전합니다. 2021년 마지막 방송입니다</description>
     </item>
     
