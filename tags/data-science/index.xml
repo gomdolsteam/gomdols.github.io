@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science on OCI 읽어주는 곰돌스</title>
+    <link>https://example.com/tags/data-science/</link>
+    <description>Recent content in Data Science on OCI 읽어주는 곰돌스</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 03 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OCI 주간 새소식(5월 4주차, 50회)</title>
+      <link>https://example.com/post/gomdols050/</link>
+      <pubDate>Fri, 03 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/gomdols050/</guid>
+      <description>[OCI 읽어주는 곰돌스] 50회차는 OCI 신규 업데이트 소식 12개와 OCI MySQL 서비스(MDS)를 집중적으로 소개합니다. 음성 중심으로 각 주제를 쉽게 전달하기 위한 티키타</description>
+    </item>
+    
+    <item>
+      <title>OCI 주간 새소식(5월 2주차, 49회)</title>
+      <link>https://example.com/post/gomdols049/</link>
+      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/gomdols049/</guid>
+      <description>[OCI 읽어주는 곰돌스] 49회차는 OCI 신규 업데이트 소식 6개와 OCI OCIR 서비스를 집중적으로 소개합니다. 음성 중심으로 각 주제를 쉽게 전달하기 위하여 토론형식으로 진행</description>
+    </item>
+    
+    <item>
+      <title>OCI 주간 새소식(4월 3주차, 46회)</title>
+      <link>https://example.com/post/gomdols046/</link>
+      <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/gomdols046/</guid>
+      <description>[OCI 읽어주는 곰돌스] 46회차는 OCI 신규 업데이트 소식 7개와 OKE를 집중적으로 소개합니다. 음성 중심으로 각 주제를 쉽게 전달하기 위하여 토론형식으로 진행합니</description>
+    </item>
+    
+    <item>
+      <title>OCI 주간 새소식(4월 2주차, 45회)</title>
+      <link>https://example.com/post/gomdols045/</link>
+      <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/gomdols045/</guid>
+      <description>[OCI 읽어주는 곰돌스] 45회차는 OCI 신규 업데이트 소식 11개와 OCI 데이터베이스 서비스에 대해 집중 소개합니다. 음성 중심으로 각 주제를 쉽게 전달하기 위하여 토론형</description>
+    </item>
+    
+    <item>
+      <title>OCI 주간 새소식(3월 1주차, 41회)</title>
+      <link>https://example.com/post/gomdols041/</link>
+      <pubDate>Tue, 08 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/gomdols041/</guid>
+      <description>[OCI 읽어주는 곰돌스] 41회차는 OCI 신규 업데이트 소식 12개 업데이트 소식을 요약합니다. 음성 중심으로 각 주제를 쉽게 전달하기 위하여 토론형식으로 진행합니다.</description>
+    </item>
+    
+    <item>
+      <title>OCI 주간 새소식(2월 3주차, 38회)</title>
+      <link>https://example.com/post/gomdols038/</link>
+      <pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/gomdols038/</guid>
+      <description>[OCI 읽어주는 곰돌스] 38회차는 OCI 신규 업데이트 소식 11개 업데이트 소식을 요약합니다. 영상 개요 OCI 업데이트 기간: 2022.2.4 ~ 2022.2.10 녹화: 2022.02.13 공개: 2022.02.14 Youtube 주소: https://youtu.be/V1AulhgxCm4 재생시</description>
+    </item>
+    
+    <item>
+      <title>OCI 주간 새소식(2월 2주차, 37회)</title>
+      <link>https://example.com/post/gomdols037/</link>
+      <pubDate>Mon, 07 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/gomdols037/</guid>
+      <description>[OCI 읽어주는 곰돌스] 37회차는 OCI 신규 업데이트 소식 10개 업데이트 소식을 요약합니다. 영상 개요 OCI 업데이트 기간: 2022.1.22 ~ 2022.2.3 녹화: 2022.02.06 공개: 2022.02.07 Youtube 주소: https://youtu.be/JUhiR2jrNbk 재생시</description>
+    </item>
+    
+    <item>
+      <title>OCI 주간 새소식(12월 4주차, 33회)</title>
+      <link>https://example.com/post/gomdols033/</link>
+      <pubDate>Tue, 28 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/gomdols033/</guid>
+      <description>[OCI 읽어주는 곰돌스] 33회차는 OCI 신규 업데이트 6개 주제를 다룹니다. Data Science 업데이트 소식과 스웨덴 신규 리전 오픈 소식을 전합니다. 2021년 마지막 방송입니다</description>
+    </item>
+    
+    <item>
+      <title>OCI 주간 새소식(12월 3주차, 32회)</title>
+      <link>https://example.com/post/gomdols032/</link>
+      <pubDate>Wed, 22 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/gomdols032/</guid>
+      <description>[OCI 읽어주는 곰돌스] 32회차는 OCI 신규 업데이트 12개 주제를 다룹니다. 이번주 업데이트는 Data Labeling, Data Science, Operations Insights, API Gateway, MDS, Anomaly Detection, Data Catalog, Language 서비스로 구성됩니다. 영상 개요 OCI 업</description>
+    </item>
+    
+    <item>
+      <title>OCI 주간 새소식(12월 2주차, 31회)</title>
+      <link>https://example.com/post/gomdols031/</link>
+      <pubDate>Mon, 13 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/gomdols031/</guid>
+      <description>[OCI 읽어주는 곰돌스] 31회차는 OCI 신규 업데이트 12개 주제를 다룹니다. 이번주 주목할 업데이트에서는 Logging Analytics 서비스의 기능 개선입니다. 일주일 동안 4개의 기능 추</description>
+    </item>
+    
+    <item>
+      <title>OCI 주간 새소식(12월 1주차, 21회)</title>
+      <link>https://example.com/post/gomdols021/</link>
+      <pubDate>Tue, 07 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/gomdols021/</guid>
+      <description>[OCI 읽어주는 곰돌스] 21회차는 OCI 신규 업데이트 12개 주제를 다룹니다. 이번주 주목할 업데이트에서는 OCI 신규 리전이 아부다비와 밀라노에 신규 오픈됐다는 소식입</description>
+    </item>
+    
+    <item>
+      <title>OCI 주간 새소식(12월 1주차, 22회)</title>
+      <link>https://example.com/post/gomdols022/</link>
+      <pubDate>Tue, 07 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/gomdols022/</guid>
+      <description>[OCI 읽어주는 곰돌스] 22회차는 OCI 신규 업데이트 12개 주제를 다룹니다. 이번주 주목할 업데이트에서는 OCI 신규 리전이 아부다비와 밀라노에 신규 오픈됐다는 소식입</description>
+    </item>
+    
+    <item>
+      <title>OCI 주간 새소식(12월 1주차, 23회)</title>
+      <link>https://example.com/post/gomdols023/</link>
+      <pubDate>Tue, 07 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/gomdols023/</guid>
+      <description>[OCI 읽어주는 곰돌스] 23회차는 OCI 신규 업데이트 12개 주제를 다룹니다. 이번주 주목할 업데이트에서는 OCI 신규 리전이 아부다비와 밀라노에 신규 오픈됐다는 소식입</description>
+    </item>
+    
+    <item>
+      <title>OCI 주간 새소식(12월 1주차, 24회)</title>
+      <link>https://example.com/post/gomdols024/</link>
+      <pubDate>Tue, 07 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/gomdols024/</guid>
+      <description>[OCI 읽어주는 곰돌스] 24회차는 OCI 신규 업데이트 12개 주제를 다룹니다. 이번주 주목할 업데이트에서는 OCI 신규 리전이 아부다비와 밀라노에 신규 오픈됐다는 소식입</description>
+    </item>
+    
+    <item>
+      <title>OCI 주간 새소식(12월 1주차, 25회)</title>
+      <link>https://example.com/post/gomdols025/</link>
+      <pubDate>Tue, 07 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/gomdols025/</guid>
+      <description>[OCI 읽어주는 곰돌스] 25회차는 OCI 신규 업데이트 12개 주제를 다룹니다. 이번주 주목할 업데이트에서는 OCI 신규 리전이 아부다비와 밀라노에 신규 오픈됐다는 소식입</description>
+    </item>
+    
+    <item>
+      <title>OCI 주간 새소식(12월 1주차, 26회)</title>
+      <link>https://example.com/post/gomdols026/</link>
+      <pubDate>Tue, 07 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/gomdols026/</guid>
+      <description>[OCI 읽어주는 곰돌스] 26회차는 OCI 신규 업데이트 12개 주제를 다룹니다. 이번주 주목할 업데이트에서는 OCI 신규 리전이 아부다비와 밀라노에 신규 오픈됐다는 소식입</description>
+    </item>
+    
+    <item>
+      <title>OCI 주간 새소식(12월 1주차, 27회)</title>
+      <link>https://example.com/post/gomdols027/</link>
+      <pubDate>Tue, 07 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/gomdols027/</guid>
+      <description>[OCI 읽어주는 곰돌스] 27회차는 OCI 신규 업데이트 12개 주제를 다룹니다. 이번주 주목할 업데이트에서는 OCI 신규 리전이 아부다비와 밀라노에 신규 오픈됐다는 소식입</description>
+    </item>
+    
+    <item>
+      <title>OCI 주간 새소식(12월 1주차, 28회)</title>
+      <link>https://example.com/post/gomdols028/</link>
+      <pubDate>Tue, 07 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/gomdols028/</guid>
+      <description>[OCI 읽어주는 곰돌스] 28회차는 OCI 신규 업데이트 12개 주제를 다룹니다. 이번주 주목할 업데이트에서는 OCI 신규 리전이 아부다비와 밀라노에 신규 오픈됐다는 소식입</description>
+    </item>
+    
+    <item>
+      <title>OCI 주간 새소식(12월 1주차, 29회)</title>
+      <link>https://example.com/post/gomdols029/</link>
+      <pubDate>Tue, 07 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/gomdols029/</guid>
+      <description>[OCI 읽어주는 곰돌스] 29회차는 OCI 신규 업데이트 12개 주제를 다룹니다. 이번주 주목할 업데이트에서는 OCI 신규 리전이 아부다비와 밀라노에 신규 오픈됐다는 소식입</description>
+    </item>
+    
+    <item>
+      <title>OCI 주간 새소식(12월 1주차, 30회)</title>
+      <link>https://example.com/post/gomdols030/</link>
+      <pubDate>Tue, 07 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/gomdols030/</guid>
+      <description>[OCI 읽어주는 곰돌스] 30회차는 OCI 신규 업데이트 12개 주제를 다룹니다. 이번주 주목할 업데이트에서는 OCI 신규 리전이 아부다비와 밀라노에 신규 오픈됐다는 소식입</description>
+    </item>
+    
+    <item>
+      <title>OCI 주간 새소식(8월 1주차, 15회)</title>
+      <link>https://example.com/post/gomdols015/</link>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/gomdols015/</guid>
+      <description>[OCI 읽어주는 곰돌스] 15회차 영상은 OCI 신규 업데이트 8개 주제와 Oracle LiveLab 업데이트 소식을 다룹니다. [OCI 읽어주는 곰돌스] 주간 OCI 새소식은 매주 발표되는 OCI 신규 릴리즈</description>
+    </item>
+    
+    <item>
+      <title>OCI 주간 새소식(7월 3주차, 12회)</title>
+      <link>https://example.com/post/gomdols012/</link>
+      <pubDate>Thu, 22 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/gomdols012/</guid>
+      <description>[OCI 읽어주는 곰돌스] 12회차 영상은 OCI 신규 업데이트 10개 주제와 GraalVM 새소식을 다룹니다. [OCI 읽어주는 곰돌스] 주간 OCI 새소식은 매주 발표되는 OCI 신규 릴리즈 노트를</description>
+    </item>
+    
+    <item>
+      <title>OCI 주간 새소식(6월 1주차, 7회)</title>
+      <link>https://example.com/post/gomdols007/</link>
+      <pubDate>Mon, 07 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/gomdols007/</guid>
+      <description>[OCI 읽어주는 곰돌스] 7회차 영상은 Logging Analytics를 중심으로 13개 신규 업데이트를 다룹니다. [OCI 읽어주는 곰돌스] 주간 OCI 새소식은 매주 발표되는 OCI 신규</description>
+    </item>
+    
+    <item>
+      <title>OCI 주간 새소식(5월 2주차, 4회)</title>
+      <link>https://example.com/post/gomdols004/</link>
+      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/gomdols004/</guid>
+      <description>[OCI 읽어주는 곰돌스] 4회차는 OCI 신규 6개 업데이트 소식을 다룹니다. OCI Registry, MDS, Data Science, OKE 소식으로 구성됩니다. 2021년 5월 16일 Zoom을 통해서 녹화한 영상입</description>
+    </item>
+    
+    <item>
+      <title>OCI 주간 새소식(4월 3주차, 2회)</title>
+      <link>https://example.com/post/gomdols002/</link>
+      <pubDate>Wed, 05 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/gomdols002/</guid>
+      <description>[OCI 읽어주는 곰돌스] 2회차 영상은 2021년 4월 23일 부터 4월 30일까지 7일간 공개된 오라클 클라우드 업데이트 소식을 정리합니다. 베어메탈 조경진님, 아</description>
+    </item>
+    
+  </channel>
+</rss>

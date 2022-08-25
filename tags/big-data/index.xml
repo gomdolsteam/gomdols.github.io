@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Big Data on OCI 읽어주는 곰돌스</title>
+    <link>https://example.com/tags/big-data/</link>
+    <description>Recent content in Big Data on OCI 읽어주는 곰돌스</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 18 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/big-data/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OCI 주간 새소식(1월 2주차, 35회)</title>
+      <link>https://example.com/post/gomdols035/</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/gomdols035/</guid>
+      <description>[OCI 읽어주는 곰돌스] 35회차는 OCI 서울 리전의 Azure Interconnect 지원 리전 발표와 OCI 신규 업데이트 9개를 소개합니다. 동영싱 마지막에 OCI Azure Interconnect 활용 아이디어를 소개하는 엔딩크레</description>
+    </item>
+    
+    <item>
+      <title>OCI 주간 새소식(12월 2주차, 31회)</title>
+      <link>https://example.com/post/gomdols031/</link>
+      <pubDate>Mon, 13 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/gomdols031/</guid>
+      <description>[OCI 읽어주는 곰돌스] 31회차는 OCI 신규 업데이트 12개 주제를 다룹니다. 이번주 주목할 업데이트에서는 Logging Analytics 서비스의 기능 개선입니다. 일주일 동안 4개의 기능 추</description>
+    </item>
+    
+    <item>
+      <title>OCI 주간 새소식(7월 3주차, 12회)</title>
+      <link>https://example.com/post/gomdols012/</link>
+      <pubDate>Thu, 22 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/gomdols012/</guid>
+      <description>[OCI 읽어주는 곰돌스] 12회차 영상은 OCI 신규 업데이트 10개 주제와 GraalVM 새소식을 다룹니다. [OCI 읽어주는 곰돌스] 주간 OCI 새소식은 매주 발표되는 OCI 신규 릴리즈 노트를</description>
+    </item>
+    
+  </channel>
+</rss>

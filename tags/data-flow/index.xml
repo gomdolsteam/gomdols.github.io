@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Flow on OCI 읽어주는 곰돌스</title>
+    <link>https://example.com/tags/data-flow/</link>
+    <description>Recent content in Data Flow on OCI 읽어주는 곰돌스</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 22 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/data-flow/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OCI 주간 새소식(3월 3주차, 42회)</title>
+      <link>https://example.com/post/gomdols042/</link>
+      <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/gomdols042/</guid>
+      <description>[OCI 읽어주는 곰돌스] 42회차는 OCI 신규 업데이트 소식 7개 업데이트 소식합니다. 음성 중심으로 각 주제를 쉽게 전달하기 위하여 토론형식으로 진행합니다. 영상 개요</description>
+    </item>
+    
+    <item>
+      <title>OCI 주간 새소식(3월 1주차, 41회)</title>
+      <link>https://example.com/post/gomdols041/</link>
+      <pubDate>Tue, 08 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/gomdols041/</guid>
+      <description>[OCI 읽어주는 곰돌스] 41회차는 OCI 신규 업데이트 소식 12개 업데이트 소식을 요약합니다. 음성 중심으로 각 주제를 쉽게 전달하기 위하여 토론형식으로 진행합니다.</description>
+    </item>
+    
+    <item>
+      <title>OCI 주간 새소식(2월 3주차, 38회)</title>
+      <link>https://example.com/post/gomdols038/</link>
+      <pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/gomdols038/</guid>
+      <description>[OCI 읽어주는 곰돌스] 38회차는 OCI 신규 업데이트 소식 11개 업데이트 소식을 요약합니다. 영상 개요 OCI 업데이트 기간: 2022.2.4 ~ 2022.2.10 녹화: 2022.02.13 공개: 2022.02.14 Youtube 주소: https://youtu.be/V1AulhgxCm4 재생시</description>
+    </item>
+    
+    <item>
+      <title>OCI 주간 새소식(2월 2주차, 37회)</title>
+      <link>https://example.com/post/gomdols037/</link>
+      <pubDate>Mon, 07 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/gomdols037/</guid>
+      <description>[OCI 읽어주는 곰돌스] 37회차는 OCI 신규 업데이트 소식 10개 업데이트 소식을 요약합니다. 영상 개요 OCI 업데이트 기간: 2022.1.22 ~ 2022.2.3 녹화: 2022.02.06 공개: 2022.02.07 Youtube 주소: https://youtu.be/JUhiR2jrNbk 재생시</description>
+    </item>
+    
+    <item>
+      <title>OCI 주간 새소식(8월 1주차, 15회)</title>
+      <link>https://example.com/post/gomdols015/</link>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/gomdols015/</guid>
+      <description>[OCI 읽어주는 곰돌스] 15회차 영상은 OCI 신규 업데이트 8개 주제와 Oracle LiveLab 업데이트 소식을 다룹니다. [OCI 읽어주는 곰돌스] 주간 OCI 새소식은 매주 발표되는 OCI 신규 릴리즈</description>
+    </item>
+    
+    <item>
+      <title>OCI 주간 새소식(5월 3주차, 5회)</title>
+      <link>https://example.com/post/gomdols005/</link>
+      <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/gomdols005/</guid>
+      <description>[OCI 읽어주는 곰돌스]는 매주 발표되는 OCI 신규 릴리즈 노트를 소개하기 위해서 준비한 &amp;ldquo;주간 OCI 토크쇼&amp;quot;입니다. 유쾌 상쾌한 토크쇼를 지향하</description>
+    </item>
+    
+  </channel>
+</rss>

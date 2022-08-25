@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Functions on OCI 읽어주는 곰돌스</title>
+    <link>https://example.com/tags/functions/</link>
+    <description>Recent content in Functions on OCI 읽어주는 곰돌스</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 11 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/functions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OCI 주간 새소식(5월 1주차, 48회)</title>
+      <link>https://example.com/post/gomdols048/</link>
+      <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/gomdols048/</guid>
+      <description>[OCI 읽어주는 곰돌스] 48회차는 OCI 신규 업데이트 소식 9개와 OCI 스토리지 서비스를 집중적으로 소개합니다. 음성 중심으로 각 주제를 쉽게 전달하기 위하여 토론형식으</description>
+    </item>
+    
+    <item>
+      <title>OCI 주간 새소식(4월 1주차, 44회)</title>
+      <link>https://example.com/post/gomdols044/</link>
+      <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/gomdols044/</guid>
+      <description>[OCI 읽어주는 곰돌스] 44회차는 OCI 신규 업데이트 소식 11개와 Java 18 버전 업데이트 소식을 전합니다. 새로 신설한 OCI 티키 타카에서는 OCI 오라클 틀라우드의 특징에 대하</description>
+    </item>
+    
+    <item>
+      <title>OCI 주간 새소식(3월 1주차, 41회)</title>
+      <link>https://example.com/post/gomdols041/</link>
+      <pubDate>Tue, 08 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/gomdols041/</guid>
+      <description>[OCI 읽어주는 곰돌스] 41회차는 OCI 신규 업데이트 소식 12개 업데이트 소식을 요약합니다. 음성 중심으로 각 주제를 쉽게 전달하기 위하여 토론형식으로 진행합니다.</description>
+    </item>
+    
+    <item>
+      <title>OCI 주간 새소식(2월 3주차, 39회)</title>
+      <link>https://example.com/post/gomdols039/</link>
+      <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/gomdols039/</guid>
+      <description>[OCI 읽어주는 곰돌스] 39회차는 OCI 신규 업데이트 소식 12개 업데이트 소식을 요약합니다. 이번주에는 Data Labeling 서비스 출시가 주목됩니다. 음성 중심으로 각 주제를 쉽게</description>
+    </item>
+    
+    <item>
+      <title>OCI 주간 새소식(2월 2주차, 37회)</title>
+      <link>https://example.com/post/gomdols037/</link>
+      <pubDate>Mon, 07 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/gomdols037/</guid>
+      <description>[OCI 읽어주는 곰돌스] 37회차는 OCI 신규 업데이트 소식 10개 업데이트 소식을 요약합니다. 영상 개요 OCI 업데이트 기간: 2022.1.22 ~ 2022.2.3 녹화: 2022.02.06 공개: 2022.02.07 Youtube 주소: https://youtu.be/JUhiR2jrNbk 재생시</description>
+    </item>
+    
+    <item>
+      <title>OCI 주간 새소식(7월 4주차, 13회)</title>
+      <link>https://example.com/post/gomdols013/</link>
+      <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/gomdols013/</guid>
+      <description>[OCI 읽어주는 곰돌스] 13회차 영상은 OCI 신규 업데이트 12개 주제를 다룹니다. [OCI 읽어주는 곰돌스] 주간 OCI 새소식은 매주 발표되는 OCI 신규 릴리즈 노트를 소개하기 위</description>
+    </item>
+    
+  </channel>
+</rss>

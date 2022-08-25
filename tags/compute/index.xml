@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Compute on OCI 읽어주는 곰돌스</title>
+    <link>https://example.com/tags/compute/</link>
+    <description>Recent content in Compute on OCI 읽어주는 곰돌스</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 12 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/compute/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OCI 주간 새소식(4월 2주차, 45회)</title>
+      <link>https://example.com/post/gomdols045/</link>
+      <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/gomdols045/</guid>
+      <description>[OCI 읽어주는 곰돌스] 45회차는 OCI 신규 업데이트 소식 11개와 OCI 데이터베이스 서비스에 대해 집중 소개합니다. 음성 중심으로 각 주제를 쉽게 전달하기 위하여 토론형</description>
+    </item>
+    
+    <item>
+      <title>OCI 주간 새소식(4월 1주차, 44회)</title>
+      <link>https://example.com/post/gomdols044/</link>
+      <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/gomdols044/</guid>
+      <description>[OCI 읽어주는 곰돌스] 44회차는 OCI 신규 업데이트 소식 11개와 Java 18 버전 업데이트 소식을 전합니다. 새로 신설한 OCI 티키 타카에서는 OCI 오라클 틀라우드의 특징에 대하</description>
+    </item>
+    
+    <item>
+      <title>OCI 주간 새소식(2월 2주차, 37회)</title>
+      <link>https://example.com/post/gomdols037/</link>
+      <pubDate>Mon, 07 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/gomdols037/</guid>
+      <description>[OCI 읽어주는 곰돌스] 37회차는 OCI 신규 업데이트 소식 10개 업데이트 소식을 요약합니다. 영상 개요 OCI 업데이트 기간: 2022.1.22 ~ 2022.2.3 녹화: 2022.02.06 공개: 2022.02.07 Youtube 주소: https://youtu.be/JUhiR2jrNbk 재생시</description>
+    </item>
+    
+    <item>
+      <title>OCI 주간 새소식(1월 1주차, 34회)</title>
+      <link>https://example.com/post/gomdols034/</link>
+      <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/gomdols034/</guid>
+      <description>[OCI 읽어주는 곰돌스] 34회차는 OCI 적용 사례인 온더라이브 소식과 OCI 신규 업데이트 3개 주제(&amp;ldquo;File Stroage&amp;rdquo;, &amp;ldquo;OKE&amp;rdquo;, &amp;ldquo;Compute&amp;rd</description>
+    </item>
+    
+    <item>
+      <title>OCI 주간 새소식(7월 1주차, 11회)</title>
+      <link>https://example.com/post/gomdols011/</link>
+      <pubDate>Mon, 05 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/gomdols011/</guid>
+      <description>[OCI 읽어주는 곰돌스] 11회차 영상은 OCI 신규 업데이트 10개 주제를 다룹니다. OCI 읽어주는 곰돌스] 주간 OCI 새소식은 매주 발표되는 OCI 신규 릴리즈 노트를 소개하기 위</description>
+    </item>
+    
+    <item>
+      <title>OCI 주간 새소식(4월 3주차, 2회)</title>
+      <link>https://example.com/post/gomdols002/</link>
+      <pubDate>Wed, 05 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/gomdols002/</guid>
+      <description>[OCI 읽어주는 곰돌스] 2회차 영상은 2021년 4월 23일 부터 4월 30일까지 7일간 공개된 오라클 클라우드 업데이트 소식을 정리합니다. 베어메탈 조경진님, 아</description>
+    </item>
+    
+    <item>
+      <title>OCI 주간 새소식(4월 3주차, 1회)</title>
+      <link>https://example.com/post/gomdols001/</link>
+      <pubDate>Wed, 28 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/gomdols001/</guid>
+      <description>[OCI 읽어주는 곰돌스]는 매주 발표되는 OCI 신규 업데이트 소식을 소개하기 위해서 준비한 &amp;ldquo;주간 OCI 영상&amp;quot;입니다. 유쾌 상쾌한 토크쇼를 지향하</description>
+    </item>
+    
+  </channel>
+</rss>

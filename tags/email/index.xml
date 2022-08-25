@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Email on OCI 읽어주는 곰돌스</title>
+    <link>https://example.com/tags/email/</link>
+    <description>Recent content in Email on OCI 읽어주는 곰돌스</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 05 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/email/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OCI 주간 새소식(9월 1주차, 19회)</title>
+      <link>https://example.com/post/gomdols019/</link>
+      <pubDate>Sun, 05 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/gomdols019/</guid>
+      <description>[OCI 읽어주는 곰돌스] 19회차는 OCI 신규 업데이트 5개 주제와 Oracle LiveLab 업데이트 소식을 다룹니다. 이번주에 공개된 Oracle LiveLabs 문서를 아빠곰님이 소개합니다. 영상 개요 OCI 업데</description>
+    </item>
+    
+    <item>
+      <title>OCI 주간 새소식(9월 1주차, 14회)</title>
+      <link>https://example.com/post/gomdols014/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/gomdols014/</guid>
+      <description>[OCI 읽어주는 곰돌스] 14회차 영상은 OCI 신규 업데이트 6개 주제와 GraalVM과 Oracle LiveLab 업데이트 소식을 다룹니다. [OCI 읽어주는 곰돌스] 주간 OCI 새소식은 매주 발표</description>
+    </item>
+    
+  </channel>
+</rss>

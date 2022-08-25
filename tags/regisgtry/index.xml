@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Regisgtry on OCI 읽어주는 곰돌스</title>
+    <link>https://example.com/tags/regisgtry/</link>
+    <description>Recent content in Regisgtry on OCI 읽어주는 곰돌스</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 24 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/regisgtry/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OCI 주간 새소식(5월 3주차, 5회)</title>
+      <link>https://example.com/post/gomdols005/</link>
+      <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/gomdols005/</guid>
+      <description>[OCI 읽어주는 곰돌스]는 매주 발표되는 OCI 신규 릴리즈 노트를 소개하기 위해서 준비한 &amp;ldquo;주간 OCI 토크쇼&amp;quot;입니다. 유쾌 상쾌한 토크쇼를 지향하</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ARM on OCI 읽어주는 곰돌스</title>
+    <link>https://example.com/tags/arm/</link>
+    <description>Recent content in ARM on OCI 읽어주는 곰돌스</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 14 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/arm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OCI 주간 새소식(6월 2주차, 8회)</title>
+      <link>https://example.com/post/gomdols008/</link>
+      <pubDate>Mon, 14 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/gomdols008/</guid>
+      <description>[OCI 읽어주는 곰돌스] 8회차 영상은 OCI 신규 업데이트 8개 주제를 다룹니다. [OCI 읽어주는 곰돌스] 주간 OCI 새소식은 매주 발표되는 OCI 신규 릴리즈 노트를 소개하기 위해서</description>
+    </item>
+    
+    <item>
+      <title>OCI 주간 새소식(5월 4주차, 6회)</title>
+      <link>https://example.com/post/gomdols006/</link>
+      <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/gomdols006/</guid>
+      <description>[OCI 읽어주는 곰돌스] 6회차 영상은 OCI Ampere A1 Compute shape을 중심으로 7개 신규 업데이트를 다룹니다. [OCI 읽어주는 곰돌스] 주간 OCI 새소식은 매주 발표되는 OCI 신규 릴리</description>
+    </item>
+    
+  </channel>
+</rss>

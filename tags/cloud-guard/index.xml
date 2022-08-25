@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cloud Guard on OCI 읽어주는 곰돌스</title>
+    <link>https://example.com/tags/cloud-guard/</link>
+    <description>Recent content in Cloud Guard on OCI 읽어주는 곰돌스</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 03 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/cloud-guard/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OCI 주간 새소식(4월 4주차, 47회)</title>
+      <link>https://example.com/post/gomdols047/</link>
+      <pubDate>Tue, 03 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/gomdols047/</guid>
+      <description>[OCI 읽어주는 곰돌스] 47회차는 OCI 신규 업데이트 소식 12개와 Oracle NoSQL Database Cloud Service를 집중적으로 소개합니다. 음성 중심으로 각 주제를 쉽게 전달하기 위하여 토</description>
+    </item>
+    
+    <item>
+      <title>OCI 주간 새소식(6월 4주차, 10회)</title>
+      <link>https://example.com/post/gomdols010/</link>
+      <pubDate>Mon, 28 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/gomdols010/</guid>
+      <description>[OCI 읽어주는 곰돌스] 10회차 영상은 OCI 신규 업데이트 10개 주제를 다룹니다. [OCI 읽어주는 곰돌스] 주간 OCI 새소식은 매주 발표되는 OCI 신규 릴리즈 노트를 소개하기 위</description>
+    </item>
+    
+    <item>
+      <title>OCI 주간 새소식(4월 3주차, 2회)</title>
+      <link>https://example.com/post/gomdols002/</link>
+      <pubDate>Wed, 05 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/gomdols002/</guid>
+      <description>[OCI 읽어주는 곰돌스] 2회차 영상은 2021년 4월 23일 부터 4월 30일까지 7일간 공개된 오라클 클라우드 업데이트 소식을 정리합니다. 베어메탈 조경진님, 아</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,614 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on OCI 읽어주는 곰돌스</title>
+    <link>https://example.com/tags/</link>
+    <description>Recent content in Tags on OCI 읽어주는 곰돌스</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 03 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>API Gateway</title>
+      <link>https://example.com/tags/api-gateway/</link>
+      <pubDate>Fri, 03 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/api-gateway/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Integration</title>
+      <link>https://example.com/tags/data-integration/</link>
+      <pubDate>Fri, 03 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/data-integration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Science</title>
+      <link>https://example.com/tags/data-science/</link>
+      <pubDate>Fri, 03 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/data-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DevOps</title>
+      <link>https://example.com/tags/devops/</link>
+      <pubDate>Fri, 03 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/devops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heatwave</title>
+      <link>https://example.com/tags/heatwave/</link>
+      <pubDate>Fri, 03 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/heatwave/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MDS</title>
+      <link>https://example.com/tags/mds/</link>
+      <pubDate>Fri, 03 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/mds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MySQL</title>
+      <link>https://example.com/tags/mysql/</link>
+      <pubDate>Fri, 03 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/mysql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OCI</title>
+      <link>https://example.com/tags/oci/</link>
+      <pubDate>Fri, 03 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/oci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OKE</title>
+      <link>https://example.com/tags/oke/</link>
+      <pubDate>Fri, 03 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/oke/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ADB</title>
+      <link>https://example.com/tags/adb/</link>
+      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/adb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Console</title>
+      <link>https://example.com/tags/console/</link>
+      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/console/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OCIR</title>
+      <link>https://example.com/tags/ocir/</link>
+      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/ocir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Operations Insights</title>
+      <link>https://example.com/tags/operations-insights/</link>
+      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/operations-insights/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>https://example.com/tags/search/</link>
+      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>APM</title>
+      <link>https://example.com/tags/apm/</link>
+      <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/apm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Block Volume</title>
+      <link>https://example.com/tags/block-volume/</link>
+      <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/block-volume/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>File Storage</title>
+      <link>https://example.com/tags/file-storage/</link>
+      <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/file-storage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Functions</title>
+      <link>https://example.com/tags/functions/</link>
+      <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/functions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Logging</title>
+      <link>https://example.com/tags/logging/</link>
+      <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/logging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Logging Analytics</title>
+      <link>https://example.com/tags/logging-analytics/</link>
+      <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/logging-analytics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Object Storage</title>
+      <link>https://example.com/tags/object-storage/</link>
+      <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/object-storage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OS Management</title>
+      <link>https://example.com/tags/os-management/</link>
+      <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/os-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Service Connector Hub</title>
+      <link>https://example.com/tags/service-connector-hub/</link>
+      <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/service-connector-hub/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Storage</title>
+      <link>https://example.com/tags/storage/</link>
+      <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/storage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Guard</title>
+      <link>https://example.com/tags/cloud-guard/</link>
+      <pubDate>Tue, 03 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/cloud-guard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Networking</title>
+      <link>https://example.com/tags/networking/</link>
+      <pubDate>Tue, 03 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/networking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NoSQL</title>
+      <link>https://example.com/tags/nosql/</link>
+      <pubDate>Tue, 03 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/nosql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security Zone</title>
+      <link>https://example.com/tags/security-zone/</link>
+      <pubDate>Tue, 03 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/security-zone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Service Mesh</title>
+      <link>https://example.com/tags/service-mesh/</link>
+      <pubDate>Tue, 03 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/service-mesh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speech</title>
+      <link>https://example.com/tags/speech/</link>
+      <pubDate>Tue, 03 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/speech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VMWare</title>
+      <link>https://example.com/tags/vmware/</link>
+      <pubDate>Tue, 03 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/vmware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WAF</title>
+      <link>https://example.com/tags/waf/</link>
+      <pubDate>Tue, 03 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/waf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compute</title>
+      <link>https://example.com/tags/compute/</link>
+      <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/compute/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Catalog</title>
+      <link>https://example.com/tags/data-catalog/</link>
+      <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/data-catalog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Advisor</title>
+      <link>https://example.com/tags/cloud-advisor/</link>
+      <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/cloud-advisor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Java Management</title>
+      <link>https://example.com/tags/java-management/</link>
+      <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/java-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Gurard</title>
+      <link>https://example.com/tags/cloud-gurard/</link>
+      <pubDate>Tue, 29 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/cloud-gurard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GoldenGate</title>
+      <link>https://example.com/tags/goldengate/</link>
+      <pubDate>Tue, 29 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/goldengate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Shell</title>
+      <link>https://example.com/tags/cloud-shell/</link>
+      <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/cloud-shell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Flow</title>
+      <link>https://example.com/tags/data-flow/</link>
+      <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/data-flow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI</title>
+      <link>https://example.com/tags/ai/</link>
+      <pubDate>Sun, 27 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vision</title>
+      <link>https://example.com/tags/vision/</link>
+      <pubDate>Sun, 27 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Labeling</title>
+      <link>https://example.com/tags/data-labeling/</link>
+      <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/data-labeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Safe</title>
+      <link>https://example.com/tags/data-safe/</link>
+      <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/data-safe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Announcements</title>
+      <link>https://example.com/tags/announcements/</link>
+      <pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/announcements/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual Builder</title>
+      <link>https://example.com/tags/visual-builder/</link>
+      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/visual-builder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Azure Interconnect</title>
+      <link>https://example.com/tags/azure-interconnect/</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/azure-interconnect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Big Data</title>
+      <link>https://example.com/tags/big-data/</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/big-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>File Stroage</title>
+      <link>https://example.com/tags/file-stroage/</link>
+      <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/file-stroage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Management Agent</title>
+      <link>https://example.com/tags/management-agent/</link>
+      <pubDate>Tue, 28 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/management-agent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anomaly Detection</title>
+      <link>https://example.com/tags/anomaly-detection/</link>
+      <pubDate>Wed, 22 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/anomaly-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Language</title>
+      <link>https://example.com/tags/language/</link>
+      <pubDate>Wed, 22 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roving Edge</title>
+      <link>https://example.com/tags/roving-edge/</link>
+      <pubDate>Tue, 07 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/roving-edge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resource Manager</title>
+      <link>https://example.com/tags/resource-manager/</link>
+      <pubDate>Mon, 13 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/resource-manager/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Email</title>
+      <link>https://example.com/tags/email/</link>
+      <pubDate>Sun, 05 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/email/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EmNetwork Visualizerail</title>
+      <link>https://example.com/tags/emnetwork-visualizerail/</link>
+      <pubDate>Mon, 23 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/emnetwork-visualizerail/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Events</title>
+      <link>https://example.com/tags/events/</link>
+      <pubDate>Mon, 28 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/events/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ARM</title>
+      <link>https://example.com/tags/arm/</link>
+      <pubDate>Mon, 14 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/arm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bare Metal</title>
+      <link>https://example.com/tags/bare-metal/</link>
+      <pubDate>Mon, 14 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/bare-metal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bastion</title>
+      <link>https://example.com/tags/bastion/</link>
+      <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/bastion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GPU</title>
+      <link>https://example.com/tags/gpu/</link>
+      <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/gpu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regisgtry</title>
+      <link>https://example.com/tags/regisgtry/</link>
+      <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/regisgtry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Registry</title>
+      <link>https://example.com/tags/registry/</link>
+      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/registry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Guard</title>
+      <link>https://example.com/tags/data-guard/</link>
+      <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/data-guard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Java</title>
+      <link>https://example.com/tags/java/</link>
+      <pubDate>Wed, 05 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Database Migration</title>
+      <link>https://example.com/tags/database-migration/</link>
+      <pubDate>Wed, 28 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/database-migration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Operation Insight</title>
+      <link>https://example.com/tags/operation-insight/</link>
+      <pubDate>Wed, 28 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/operation-insight/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

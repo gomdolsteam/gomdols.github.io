@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ADB on OCI 읽어주는 곰돌스</title>
+    <link>https://example.com/tags/adb/</link>
+    <description>Recent content in ADB on OCI 읽어주는 곰돌스</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 30 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/adb/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OCI 주간 새소식(5월 2주차, 49회)</title>
+      <link>https://example.com/post/gomdols049/</link>
+      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/gomdols049/</guid>
+      <description>[OCI 읽어주는 곰돌스] 49회차는 OCI 신규 업데이트 소식 6개와 OCI OCIR 서비스를 집중적으로 소개합니다. 음성 중심으로 각 주제를 쉽게 전달하기 위하여 토론형식으로 진행</description>
+    </item>
+    
+    <item>
+      <title>OCI 주간 새소식(9월 2주차, 20회)</title>
+      <link>https://example.com/post/gomdols020/</link>
+      <pubDate>Mon, 13 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/gomdols020/</guid>
+      <description>[OCI 읽어주는 곰돌스] 20회차는 OCI 신규 업데이트 6개 주제와 Oracle LiveLab 업데이트 5개 문서 소식을 다룹니다. OCI 신규 업데이트는 OKE, MDS, ADB의 기능 업데이트입니다. 아빠</description>
+    </item>
+    
+  </channel>
+</rss>

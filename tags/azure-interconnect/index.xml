@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Interconnect on OCI 읽어주는 곰돌스</title>
+    <link>https://example.com/tags/azure-interconnect/</link>
+    <description>Recent content in Azure Interconnect on OCI 읽어주는 곰돌스</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 18 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/azure-interconnect/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OCI 주간 새소식(1월 2주차, 35회)</title>
+      <link>https://example.com/post/gomdols035/</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/gomdols035/</guid>
+      <description>[OCI 읽어주는 곰돌스] 35회차는 OCI 서울 리전의 Azure Interconnect 지원 리전 발표와 OCI 신규 업데이트 9개를 소개합니다. 동영싱 마지막에 OCI Azure Interconnect 활용 아이디어를 소개하는 엔딩크레</description>
+    </item>
+    
+  </channel>
+</rss>
